@@ -9,3 +9,4 @@ git add: Dosyayı staging'e alır.
 git commit:Hazırlanan değişiklikleri kalıcı bir sürüm olarak kaydeder.
 git status:Projedeki anlık değişiklik durumunu ve izlenen dosyaları listeler.
 git log:Yapılan tüm geçmiş sürümlerin zaman çizelgesini sıralar.
+Hafta 6'da pull request açmayı öğrendim.
