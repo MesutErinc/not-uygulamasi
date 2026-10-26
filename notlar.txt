@@ -1,0 +1,5 @@
+pwd:"Neredeyim ben" komutudur.
+ls: Dosyaların ve klasörlerin adını listeler.
+cd /path: cd /(tam dosya dizimi yazmak zorundasın) yazıp belirttiğin adresteki klasörün içine gider.
+cat dosya.txt: Tüm dosya içeriğini ekrana yazdırır.
+mkdir:Yeni bir dizin (klasör) oluşturmak için kullanılan bir komuttur.
